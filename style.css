@@ -1,12 +1,51 @@
-.header {
+.odin-recipes {
     color:rgb(243, 162, 173);
 }
 
-.subheader {
+.directory {
     color: white;
-    background-color: rgb(233, 162, 173);
+    background-color: rgb(243, 162, 173);
 }
 
 p {
-    color: #404040
+    color: #505050;
+}
+
+.kimchi.title {
+    background-color: rgb(248, 94, 33);
+    color: white;
+}
+
+.kimchi.subheader {
+    color: rgb(248, 94, 33);
+}
+
+.kimchi.mini {
+    color:rgb(231, 150, 79);
+}
+
+.dango.title {
+    background-color:rgb(88, 38, 9);
+    color:white;
+}
+
+.dango.subheader {
+    color: rgb(88, 38, 9);
+}
+
+.dango.mini {
+    color:rgb(202, 119, 70);
+}
+
+.boba.title {
+    color: white;
+    background-color:rgb(170, 104, 50)
+}
+
+.boba.subheader {
+    color:rgb(170, 104, 50);
+}
+
+.boba.mini {
+    color:rgb(214, 160, 126);
 }
