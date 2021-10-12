@@ -12,16 +12,16 @@ p {
 }
 
 .kimchi.title {
-    background-color: rgb(248, 94, 33);
+    background-color: rgb(182, 63, 16);
     color: white;
 }
 
 .kimchi.subheader {
-    color: rgb(248, 94, 33);
+    color: rgb(182, 63, 16);
 }
 
 .kimchi.mini {
-    color:rgb(231, 150, 79);
+    color:rgb(219, 75, 8);
 }
 
 .dango.title {
@@ -48,4 +48,8 @@ p {
 
 .boba.mini {
     color:rgb(214, 160, 126);
+}
+
+div {
+    text-align: center;
 }
